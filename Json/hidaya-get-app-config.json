@@ -1,0 +1,121 @@
+{
+  "data": {
+    "app_config": {
+      "ad_flow_script": "CTR_SPAM",
+      "ad_key": [
+        {
+          "name": "app_open_2_id",
+          "isEnabled": "true"
+        },
+        {
+          "name": "app_open_2_id1",
+          "isEnabled": "true"
+        },
+        {
+          "name": "app_open_2_id2",
+          "isEnabled": "true"
+        },
+        {
+          "name": "inter_tut_2_id",
+          "isEnabled": "true"
+        },
+        {
+          "name": "native_tut_2_id",
+          "isEnabled": "true"
+        },
+        {
+          "name": "inter_splash_2_id",
+          "isEnabled": "true"
+        },
+        {
+          "name": "banner_splash_2_id",
+          "isEnabled": "true"
+        },
+        {
+          "name": "inter_language_2_id",
+          "isEnabled": "true"
+        },
+        {
+          "name": "native_language_2_id",
+          "isEnabled": "true"
+        },
+        {
+          "name": "native_home_2_id",
+          "isEnabled": "true"
+        },
+        {
+          "name": "inter_home_2_id",
+          "isEnabled": "true"
+        },
+        {
+          "name": "banner_home_2_id",
+          "isEnabled": "true"
+        },
+        {
+          "name": "inter_mixer_2_id",
+          "isEnabled": "true"
+        },
+        {
+          "name": "native_mixer_2_id",
+          "isEnabled": "true"
+        },
+        {
+          "name": "banner_mixer_2_id",
+          "isEnabled": "true"
+        },
+        {
+          "name": "banner_music_2_id",
+          "isEnabled": "true"
+        },
+        {
+          "name": "native_music_2_id",
+          "isEnabled": "true"
+        },
+        {
+          "name": "banner_drumpad_2_id",
+          "isEnabled": "true"
+        },
+        {
+          "name": "inter_drumpad_2_id",
+          "isEnabled": "true"
+        },
+        {
+          "name": "native_ludwing_2_id",
+          "isEnabled": "true"
+        },
+        {
+          "name": "inter_ludwing_2_id",
+          "isEnabled": "true"
+        },
+        {
+          "name": "native_exit_2_id",
+          "isEnabled": "true"
+        },
+        {
+          "name": "native_drumpad_menu_2_id",
+          "isEnabled": "true"
+        },
+        {
+          "name": "inter_electric_drum_2_id",
+          "isEnabled": "true"
+        },
+        {
+          "name": "banner_electric_drum_2_id",
+          "isEnabled": "true"
+        },
+        {
+          "name": "native_full_2_id",
+          "isEnabled": "true"
+        },
+        {
+          "name": "inter_open_2_id",
+          "isEnabled": "true"
+        }
+      ]
+    }
+  },
+  "meta": {
+    "message": null,
+    "success": 1
+  }
+}
